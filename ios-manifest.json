@@ -1,0 +1,10 @@
+{
+  "name": "Planner",
+  "description": "Aplikacja do planowania wydarzeń z kalendarzem i przypomnieniami",
+  "version": "1.0.0",
+  "slug": "planner-app",
+  "platforms": ["ios"],
+  "ios": {
+    "bundleIdentifier": "space.manus.planner.app"
+  }
+}
